@@ -1,0 +1,26 @@
+{
+  "name": "esm-temp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maticrivo/esm-temp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maticrivo/esm-temp/issues"
+  },
+  "homepage": "https://github.com/maticrivo/esm-temp#readme",
+  "dependencies": {
+    "@std/esm": "0.19.2",
+    "glob": "7.1.2",
+    "koa": "2.4.1",
+    "koa-router": "7.3.0"
+  }
+}
